@@ -16,7 +16,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'bootstrap-sass'
 gem 'devise'
-
+gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
